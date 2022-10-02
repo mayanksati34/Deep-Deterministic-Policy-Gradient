@@ -12,7 +12,10 @@
   <li> In order to explore the full state and action space, a stochastic policy is often necessary. To ensure that the deterministic policy gradient algorithms continue to explore satisfactorily, an off-policy actor-critic algorithm was used.
 </ul>
 
-## Results:
+## Results On OpenAI Gym Environments:
+### Pendulum V1 (256 * 256 Network)
 ![plot](./results/ddpg1.png)
+### Pendulum V1 (512 * 512 Network)
 ![plot](./results/ddpg2.png)
+### Pendulum V1 (Mountain Car Continuous)
 ![plot](./results/ddpg3.png)
