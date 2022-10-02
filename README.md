@@ -17,5 +17,5 @@
 ![plot](./results/ddpg1.png)
 ### Pendulum V1 (512 * 512 Network)
 ![plot](./results/ddpg2.png)
-### Pendulum V1 (Mountain Car Continuous)
+### Mountain Car Continuous
 ![plot](./results/ddpg3.png)
