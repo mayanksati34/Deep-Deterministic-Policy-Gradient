@@ -13,6 +13,6 @@
 </ul>
 
 ## Results:
-![plot](./images/ddpg1.png)
-![plot](./images/ddpg2.png)
-![plot](./images/ddpg3.png)
+![plot](./results/ddpg1.png)
+![plot](./results/ddpg2.png)
+![plot](./results/ddpg3.png)
